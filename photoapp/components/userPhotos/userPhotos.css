@@ -1,0 +1,17 @@
+.pic-grid {
+    display: block;
+    overflow: auto;
+}
+
+header{
+    margin: 0px;
+    padding: 0px;
+    /* height: 20em; */
+    /* background-color: #C0C0C0; */
+  }
+
+.cs142-main-grid-item {
+    height: calc(100vh - 85px);
+    padding: 10px;
+    overflow: auto;
+}
